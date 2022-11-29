@@ -14,7 +14,7 @@ add paper(s)
     - Driver functions' directory must be in MATLAB's search path.
 - a PC that remotely controls the PSG
     - See 'Configuring for Remote Control' in the PSG's Installation Guide for instructions.
-    - Check the PSG's id. This is needed as an input (PSGid) for the synthetic axion injection code.
+    - Check the PSG's id. This is needed as an input (`PSGid`) for the synthetic axion injection code.
 
 ## How to use
 
