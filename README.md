@@ -22,7 +22,7 @@ add paper(s)
 2. Run individual sections in `simpletests.m` to perform simple tests with fixed frequency sample numbers.
 3. Run `main.m` for signal injection over a longer period.
 
-An example of the expected outcome is inlcuded in the 'nocavitydata' folder:
+An example of the expected outcome is inlcuded in the `nocavitydata` folder:
 - Data file: `nocavitydata/gage_test_2022_02_02_17_25_30.mat`
     - This dataset can be reproduced by running `%% simple test 2: read a longer list with N samples` in `simpletest.m`. 
 - The experimental scheme is shown in `nocavitydata/heterodynescheme.pdf`.
