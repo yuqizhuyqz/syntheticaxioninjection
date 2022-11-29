@@ -24,7 +24,7 @@ add paper(s)
 
 An example of the expected outcome is inlcuded in the 'nocavitydata' folder:
 - Data file: `nocavitydata/gage_test_2022_02_02_17_25_30.mat`
-    - This dataset can be reproduced by running `simple test 2: read a longer list with N samples` in `simpletest.m`. 
+    - This dataset can be reproduced by running `%% simple test 2: read a longer list with N samples` in `simpletest.m`. 
 - The experimental scheme is shown in `nocavitydata/heterodynescheme.pdf`.
     - This scheme is a minimal heterodyne scheme, similar but simpler than what was used in the paper (see Fig.1).
     - Code for recording time series data and calculating Fourier Transform is not provided.
