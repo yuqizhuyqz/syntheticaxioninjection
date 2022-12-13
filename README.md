@@ -20,7 +20,7 @@ Yuqi Zhu, M. J. Jewell, Claire Laffan, Xiran Bai, Sumita Ghosh, Eleanor Graham, 
 ## How to use
 
 1. Download all the functions and scripts in this repository. 
-2. Run individual sections in `simpletests.m` to perform simple tests with fixed frequency sample numbers.
+2. Run individual sections in `simpletests.m` to perform simple tests with fixed numbers of frequency samples.
 3. Run `main.m` for signal injection over a longer period.
 
 An example of the expected outcome is inlcuded in the `nocavitydata/` folder:
